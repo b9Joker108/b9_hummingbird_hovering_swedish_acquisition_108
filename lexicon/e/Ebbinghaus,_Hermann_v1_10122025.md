@@ -2,4 +2,8 @@ File: https://github.com/b9Joker108/b9_hummingbird_hovering_swedish_acquisition_
 
 # Hermann Ebbinghaus #
 
-...
+Deixis:
+
+* https://en.wikipedia.org/w/index.php?title=Hermann_Ebbinghaus&oldid=1325947694
+
+
