@@ -1,4 +1,4 @@
-File: ...
+File: https://github.com/b9Joker108/b9_hummingbird_hovering_swedish_acquisition_108/blob/main/lexicon/l/linguistics%2C_registerial_v1_10122025_v1_10122025.md
 
 # Registerial Linguistics #
 
