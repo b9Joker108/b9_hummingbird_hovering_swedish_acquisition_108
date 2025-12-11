@@ -1,4 +1,4 @@
-File: xxx
+File: https://github.com/b9Joker108/b9_hummingbird_hovering_swedish_acquisition_108/blob/main/lexicon/s/swedish_(standard)_v1_11122025.md
 
 # Standard Swedish (xxxix: Rikssvenska; Boksvenska)
 
