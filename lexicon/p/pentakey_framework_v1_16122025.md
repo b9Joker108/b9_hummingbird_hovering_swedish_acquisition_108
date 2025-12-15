@@ -9,11 +9,11 @@ The PentaKey Framework is an English Language Teaching (ELT) method that organiz
 The framework is a practical application of the Language Analysis Key (LAK) model and helps learners differentiate between confusing elements such as homophones (e.g., sea vs. see) or homographs (e.g., lead as a verb vs. lead as a noun). 
 
 The five keys are:
-* Meaning: Focusing first on the situation, concept, or definition the word describes to form a strong semantic base.
-* Form: Analyzing the word's structure, part of speech, affixes (prefixes/suffixes), and grammatical function (e.g., arrival is a noun from the verb arrive).
-* Pronunciation: Addressing how the word sounds, including stress and syllable patterns, which helps to map sound against meaning.
-* Spelling: Deliberately analyzing letter patterns to build visual hooks that reinforce the spelling-sound relationship and prevent errors.
-* Punctuation: Examining how punctuation and capitalization guide meaning and resolve ambiguity in a sentence (e.g., "I saw her duck" could refer to a bird or an action, resolved by context and punctuation).
+* **Meaning:** Focusing first on the situation, concept, or definition the word describes to form a strong semantic base.
+* **Form:** Analyzing the word's structure, part of speech, affixes (prefixes/suffixes), and grammatical function (e.g., arrival is a noun from the verb arrive).
+* **Pronunciation:** Addressing how the word sounds, including stress and syllable patterns, which helps to map sound against meaning.
+* **Spelling:** Deliberately analyzing letter patterns to build visual hooks that reinforce the spelling-sound relationship and prevent errors.
+* **Punctuation:** Examining how punctuation and capitalization guide meaning and resolve ambiguity in a sentence (e.g., "I saw her duck" could refer to a bird or an action, resolved by context and punctuation).
 
 **Application**
 
