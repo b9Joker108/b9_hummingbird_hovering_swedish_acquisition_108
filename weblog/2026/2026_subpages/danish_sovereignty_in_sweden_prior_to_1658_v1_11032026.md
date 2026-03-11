@@ -1,8 +1,6 @@
-File: xxx
+File: https://github.com/b9Joker108/b9_hummingbird_hovering_swedish_acquisition_108/blob/main/weblog/2026/2026_subpages/danish_sovereignty_in_sweden_prior_to_1658_v1_11032026.md
 
-
-
-Danish Sovereignty in Sweden (pre-1658)
+# Danish Sovereignty in Sweden (pre-1658) #
 
 Before 1658, the “Danish sovereignty in Sweden” question is really about which parts of what is now southern and western Sweden were under the Danish (or Danish‑Norwegian) crown, and how that overlapped with a changing Swedish realm.
 
